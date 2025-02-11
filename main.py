@@ -6,11 +6,8 @@ import random
 import string
 
 senders = {
-    'broottime@gmail.com': 'bkrfeocsfqfrrvyn',
-    'neverdieallquestions777@gmail.com': 'hqrygobifwxxsrfa',
-    'artyrrr.salashenkov@gmail.com': 'pdtjgnskunyyavad',
-    'salosalos2404@gmail.com': 'penllmuqhroiyemw',
-    'broottime1@gmail.com': 'paajzqkldumifkqx',
+    'your5@mail.ru': 'o-auth password',
+    'your6@mail.ru': 'o-auth password',
     'your5@mail.ru': 'o-auth password',
     'your6@mail.ru': 'o-auth password',
     'your7@mail.ru': 'o-auth password',
